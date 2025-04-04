@@ -80,3 +80,6 @@ events.out.tfevents.*
 
 
 output_models/
+
+# Images
+./dashboard/background.svg
